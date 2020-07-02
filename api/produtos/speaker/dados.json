@@ -1,0 +1,20 @@
+{
+    "id": "speaker",
+    "nome": "Speaker",
+    "preco": 599,
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at laoreet dolor.",
+    "estoque": 3,
+    "img": "./api/produtos/speaker/speaker-foto.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Catarina",
+            "estrelas": 5,
+            "descricao": "Adorei o produto, o grave dele é excelente"
+        },
+        {
+            "nome": "Jorge",
+            "estrelas": 4,
+            "descricao": "O grave é muito bom, mas a conexão bluetooth com o celular é um pouco instável"
+        }
+    ]
+}

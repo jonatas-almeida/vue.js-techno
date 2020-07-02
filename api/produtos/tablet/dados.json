@@ -1,0 +1,20 @@
+{
+    "id": "tablet",
+    "nome": "Tablet",
+    "preco": 899,
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at laoreet dolor.",
+    "estoque": 10,
+    "img": "./api/produtos/tablet/tablet-foto.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Jonatas",
+            "estrelas": 5,
+            "descricao": "Produto mais que excelente, consigo trabalhar tranquilo com ele"
+        },
+        {
+            "nome": "Juliana",
+            "estrelas": 5,
+            "descricao": "Melhor produto da loja! muito bom para trabalhos que envolvem design"
+        }
+    ]
+}

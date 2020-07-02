@@ -1,0 +1,20 @@
+{
+    "id": "smartwatch",
+    "nome": "Smart Watch",
+    "preco": 1500,
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at laoreet dolor.",
+    "estoque": 12,
+    "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Lucas",
+            "estrelas": 4,
+            "descricao": "Gostei do produto, porém a bateria descarrega um pouco rápido"
+        },
+        {
+            "nome": "Diego",
+            "estrelas": 5,
+            "descricao": "Achei o produto excelente, muito bom para monitorar a frequência cardíaca e a distância percorrida durante a corrida"
+        }
+    ]
+}

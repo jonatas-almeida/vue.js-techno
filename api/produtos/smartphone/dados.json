@@ -1,0 +1,20 @@
+{
+    "id": "smartphone",
+    "nome": "Smartphone",
+    "preco": 1299,
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at laoreet dolor.",
+    "estoque": 5,
+    "img": "./api/produtos/smartphone/smartphone-foto.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Daniel",
+            "estrelas": 5,
+            "descricao": "Produto excelente, atendeu as minhas expectativas"
+        },
+        {
+            "nome": "Fernanda",
+            "estrelas": 3,
+            "descricao": "Não gostei tanto, mas cumpre o seu propósito"
+        }
+    ]
+}
